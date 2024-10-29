@@ -6,8 +6,8 @@
 
 - 🫨 Former Physical Therapy student turned Computer Science student
 - 🌱 I’m currently learning Javascript
-- 👨🏻‍💻 Working on my Personal Website
-- 🥅 2024 Goals: Learn more about game developer tools
+- 👨🏻‍💻 Working on an NBA MVP Predictor ML Algorithm
+- 🥅 2024 Goals: Learn more about Machine Learning and Artificial Intelligence
 - ⚡ Fun fact: I love swimming and being at the beach
 
 ### Connect with me:
